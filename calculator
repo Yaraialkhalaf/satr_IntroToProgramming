@@ -1,13 +1,3 @@
-This is the second and last project in introduction to programming
-
-The aim of this project is to create a calculator using pseudocode
-
-The instruction are :
-1- take two input as double for the users and assigned them to X and y 
-2- take the operation as an input for the user
-3- print the output 
-
-My pseudocode :
 Var double X 
 Var double y 
 
