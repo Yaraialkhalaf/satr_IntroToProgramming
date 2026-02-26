@@ -1,33 +1,3 @@
-This is the first project of the two final projects in the course introduction to programming
-
-The aim of the project is to take the first name, last name and ID number of the user and display them using pseudocode
-
-The instructions are :
-1- Write a program that receives the First Name, Last Name, and Employee ID from the user. Validate the input according to these rules:
-
-2- Ensure the First Name and Last Name are at least two characters long.
-
-3- Ensure the Employee ID consists of numbers only.
-
-4- Display appropriate error messages for any invalid data.
-
-Example of error : 
-Input :
--Enter the first name: J
--Enter the last name:
--Enter the ID: 1234d
-Output: 
--"J" is not a valid first name. It is too short.
--The last name must be filled in.
--1234d is not a valid ID.
-
-Explain for the correct output :
--Enter the first name: Jimmy
--Enter the last name: James
--Enter the ID:  123456
-
-
-My pseudocode : 
 String firstName
 String lastName
 Integer ID
